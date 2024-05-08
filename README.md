@@ -1,6 +1,6 @@
-# Uber Data Engineering Project
+# New-York Taxi Data Engineering Project
 
-This project involves processing and analyzing Uber data using Google Cloud services including Compute Engine (VMs), BigQuery, and Looker to create a dashboard for visualization.
+This project involves processing and analyzing New-York Taxi data using Google Cloud services including Compute Engine (VMs), BigQuery, and Looker to create a dashboard for visualization.
 
 ## Overview
 
