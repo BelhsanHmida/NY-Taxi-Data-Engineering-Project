@@ -2,7 +2,7 @@
 
 This project involves processing and analyzing New-York Taxi data using Google Cloud services including Compute Engine (VMs), BigQuery, and Looker to create a dashboard for visualization.
 
-## Overview
+## Project structure
 
 The goal of this project is to demonstrate an end-to-end data engineering pipeline using Google Cloud technologies for handling Uber data and visualizing insights through a dashboard.
 
