@@ -19,7 +19,7 @@ The project is organized into the following components:
 ## Tools and Technologies Used
 
 - **Google Cloud Platform (GCP):**
-  - Google Storag   
+  - Google Storage Buckets   
   - Compute Engine (VMs) for running data processing tasks.
   - BigQuery for storing and querying large datasets.
   - Looker Studio for building interactive dashboards.
