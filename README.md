@@ -4,7 +4,8 @@ This project involves processing and analyzing New-York Taxi data using Google C
 
 ## Project structure
 
-![Description](artifacts/New-York Taxi-Engineering Picture.PNG)
+![Description](NY-Taxi-Data-Engineering-Project
+/artifacts/New-York Taxi-Engineering Picture.PNG)
 
 ## Tools and Technologies Used
 
