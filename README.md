@@ -14,7 +14,7 @@ The goal of this project is to demonstrate an end-to-end data engineering pipeli
   - BigQuery for storing and querying large datasets.
   - Looker Studio for building interactive dashboards.
 
-Modern Data Pipeine Tool - https://www.mage.ai/
+- **Modern Data Pipeine Tool** - https://www.mage.ai/
 
 ## Project Structure
 
