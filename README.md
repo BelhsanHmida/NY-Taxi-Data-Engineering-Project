@@ -34,3 +34,8 @@ The project is organized into the following components:
 ## Data Model
 ![Data Model](https://github.com/BelhsanHmida/NY-Taxi-Data-Engineering-Project/blob/main/artifacts/NY-dataModel.PNG)
 
+## ETL pipeline
+![ETL Pipeline](https://github.com/BelhsanHmida/NY-Taxi-Data-Engineering-Project/blob/main/artifacts/ETL-pipeline.PNG)
+
+
+
