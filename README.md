@@ -9,7 +9,7 @@ This project involves processing and analyzing New-York Taxi data using Google C
 The project is organized into the following components:
 
 - **ETL Pipeline:**
-  - Python scripts for extracting, transforming, and loading Uber data into BigQuery.
+  - Python scripts for extracting, transforming, and loading New-York Taxi data into BigQuery.
 
 - **Data Analysis and Modeling:**
   - Jupyter Notebooks for exploratory data analysis (EDA) and data modeling using Lucid.

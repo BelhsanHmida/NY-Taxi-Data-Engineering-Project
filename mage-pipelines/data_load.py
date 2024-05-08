@@ -16,7 +16,7 @@ def export_data_to_big_query(df: DataFrame, **kwargs) -> None:
 
     Docs: https://docs.mage.ai/design/data-loading#bigquery
     """
-    table_id = 'coastal-arcana-421820.uber_data_engineering.fact_table'
+    table_id = 'coastal-arcana-421820.New-York Taxi_data_engineering.fact_table'
     config_path = path.join(get_repo_path(), 'io_config.yaml')
     config_profile = 'default'
 
