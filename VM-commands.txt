@@ -1,0 +1,33 @@
+# System Update
+
+sudo apt-get update -y
+
+# Install Python3 Dependencies
+
+sudo apt-get install python3-distutils
+sudo apt-get install python3-apt
+
+# Install wget
+
+sudo apt-get install wget
+
+# Install pip
+
+wget https://bootstrap.pypa.io/get-pip.py
+sudo apt-get python3 get-pip.py
+
+# Install Python Virtual Environment
+
+sudo apt install python3.11-venv
+
+# Create and Activate a Virtual Environment
+
+python3 -m venv venv
+source venv/bin/activate
+
+# Install Python Libraries in the Virtual Environment
+
+pip install mage-ai
+pip install pandas
+pip install google-cloud
+pip install google-cloud-bigquery
