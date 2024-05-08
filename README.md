@@ -37,5 +37,13 @@ The project is organized into the following components:
 ## ETL pipeline
 ![ETL Pipeline](https://github.com/BelhsanHmida/NY-Taxi-Data-Engineering-Project/blob/main/artifacts/ETL-pipeline.PNG)
 
+## LockerStudio Dashboard
+
+
+## Future improvements
+
+- Integration of real-time data processing capabilities.
+- Implementation of advanced analytics and machine learning models.
+- DashBoard improvement
 
 
