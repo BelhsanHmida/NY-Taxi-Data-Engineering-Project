@@ -31,3 +31,6 @@ The project is organized into the following components:
 - The TLC trip record data for yellow and green taxis contains information such as the pick-up and drop-off times and locations, the distances traveled during the trips, itemized fare      details, rate categories, payment methods, and the number of passengers reported by the driver.
 - Data dictionary : https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 
+## Data Model
+![Data Model](https://github.com/BelhsanHmida/NY-Taxi-Data-Engineering-Project/blob/main/artifacts/NY-dataModel.PNG)
+
